@@ -26,13 +26,13 @@
   },
   "homepage": "https://github.com/kaylajaograham/movidex-api#readme",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.2"
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
